@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneeth860" alt="praneeth860" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript,figma**
+- 🌱 I’m currently learning **backend,dsa in cpp**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Praneeth860](https://github.com/Praneeth860)
 
